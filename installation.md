@@ -1,5 +1,17 @@
 # Installation Guide
 
+## Table of Contents
+- [Hardware Requirements](#hardware-requirements)
+- [Software Requirements](#software-requirements)
+- [Installation Steps](#installation-steps)
+  - [Install OpenWRT](#install-openwrt)
+  - [Configure Network](#configure-network)
+  - [Configure Firewall](#configure-firewall)
+  - [Connect to OpenWRT via DHCP](#connect-to-openwrt-via-dhcp)
+  - [Configure wifi device](#configure-wifi-device)
+  - [Connect OpenWRT to Wireless Network](#connect-openwrt-to-wireless-network)
+  - [Setup RT5370 Wireless Adapter Access Point](#setup-rt5370-wireless-adapter-access-point)
+
 ## Hardware Requirements
 
 For the Secure Raspberry Pi Router, I used following hardware components:
